@@ -73,3 +73,42 @@ Mario Jakupas
 MS Computer Science – Data Analysis
 
 Montclair State University
+---
+
+## Project Visualizations
+
+### Bar Chart Analysis
+
+![Bar Chart](results/figures/Barchart.png)
+
+---
+
+### Histogram Distribution
+
+![Histogram](results/figures/Histogram.png)
+
+---
+
+### Line Chart Trends
+
+![Line Chart](results/figures/Line_chart.png)
+
+---
+
+### Scatter Plot Analysis
+
+![Scatter Plot](results/figures/scatter_plot.png)
+
+---
+
+### Additional Statistical Results
+
+![Result 1](results/figures/Result1.png)
+
+![Result 2](results/figures/Result2.png)
+
+![Result 3](results/figures/Result3.png)
+
+![Result 4](results/figures/Result4.png)
+
+![Result 5](results/figures/Result5.png)
