@@ -1,26 +1,30 @@
 # 📊 Exploratory Data Analysis Dashboard
 
-![Python](https://img.shields.io/badge/Python-3.11-blue)
+Python
 
-![EDA](https://img.shields.io/badge/Data%20Analysis-EDA-green)
+EDA
 
-![Plotly](https://img.shields.io/badge/Visualization-Plotly-orange)
+Plotly
 
 ## Project Overview
 
-This project focuses on exploratory data analysis (EDA), data visualization, dashboard development, and statistical analysis using Python.
+This repository showcases a collection of Exploratory Data Analysis (EDA) projects developed using Python and modern data analytics tools.
 
-The project analyzes structured datasets to identify trends, correlations, distributions, and actionable insights.
+The projects focus on data cleaning, preprocessing, statistical analysis, visualization, and dashboard development using real-world datasets from healthcare, public health, and global data sources.
+
+Each project demonstrates the complete EDA workflow, from raw data preparation to insight generation and visual storytelling.
 
 ---
 
 ## Objectives
 
-- Data Cleaning
-- Exploratory Data Analysis
+- Data Cleaning and Preprocessing
+- Exploratory Data Analysis (EDA)
 - Statistical Analysis
+- Data Visualization
 - Dashboard Development
-- Interactive Visualization
+- Insight Generation
+- Trend and Pattern Identification
 
 ---
 
@@ -58,11 +62,37 @@ src/
 
 ## Projects Included
 
-- COVID-19 Data Analysis
-- CDC Health Analysis
-- Interactive Dashboards
-- Correlation Analysis
-- Statistical Visualizations
+### Project 1: Nutrition, Physical Activity & Obesity Analysis
+
+This project analyzes obesity, nutrition, and physical activity trends across U.S. states using public health datasets.
+
+The analysis focuses on identifying behavioral risk factors, obesity patterns, physical activity levels, and state-level health differences through exploratory data analysis, statistical techniques, and data visualization.
+
+Key topics include:
+
+- Obesity trend analysis
+- Physical activity patterns
+- State-level comparisons
+- Distribution analysis
+- Correlation analysis
+- Public health insights
+- Statistical visualizations
+
+### Project 2: COVID-19 Global Data Analysis
+
+This project analyzes global COVID-19 confirmed cases using time-series data, country-level aggregation, and geospatial visualization techniques.
+
+The analysis focuses on global trends, case distribution, and interactive mapping of pandemic data.
+
+Key topics include:
+
+- Data cleaning and reshaping
+- Country-level aggregation
+- Time-series analysis
+- Global case distribution
+- Geospatial visualization
+- Interactive mapping
+- Pandemic trend analysis
 
 ---
 
@@ -73,7 +103,18 @@ Mario Jakupas
 MS Computer Science – Data Analysis
 
 Montclair State University
+
 ---
+
+# Project 1: Nutrition, Physical Activity & Obesity Analysis
+
+## Project Overview
+
+This project explores obesity, nutrition, and physical activity indicators across the United States using public health datasets.
+
+The goal is to identify trends, behavioral patterns, and state-level differences through statistical analysis and data visualization techniques.
+
+
 
 ## Project Visualizations
 
