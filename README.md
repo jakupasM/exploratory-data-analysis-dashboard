@@ -112,3 +112,50 @@ Montclair State University
 ![Result 4](results/figures/Result4.png)
 
 ![Result 5](results/figures/Result5.png)
+
+
+---
+
+# COVID-19 Global Data Analysis
+
+## Project Overview
+
+This project analyzes global COVID-19 confirmed cases using time-series data, country-level aggregation, geospatial visualization, and interactive mapping techniques.
+
+## Key Analysis
+
+- Data Cleaning and Reshaping
+- Country-Level Aggregation
+- Global Case Distribution
+- Interactive Geospatial Mapping
+- Time-Series Visualization
+
+## Visualizations
+
+### Dataset Preparation
+
+![Data Cleaning](results/figures/covid_data_cleaning.png)
+
+### Country Aggregation
+
+![Aggregation](results/figures/country_aggregation.png)
+
+### Global COVID-19 Choropleth Map
+
+![Choropleth](results/figures/covid_choropleth_map.png)
+
+### Global COVID-19 Bubble Map
+
+![Bubble Map](results/figures/covid_bubble_map.png)
+
+### COVID-19 Case Categories
+
+![Categories](results/figures/covid_case_categories.png)
+
+### Top 5 Countries Distribution
+
+![Distribution](results/figures/top5_countries_distribution.png)
+
+### Global COVID-19 Spread
+
+![Global Spread](results/figures/covid_global_spread_2020_2023.png)
