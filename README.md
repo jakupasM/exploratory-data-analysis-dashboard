@@ -1,10 +1,10 @@
 # 📊 Exploratory Data Analysis Dashboard
 
-Python
+![Python](https://img.shields.io/badge/Python-3.11-blue)
 
-EDA
+![EDA](https://img.shields.io/badge/Data%20Analysis-EDA-green)
 
-Plotly
+![Plotly](https://img.shields.io/badge/Visualization-Plotly-orange)
 
 ## Project Overview
 
