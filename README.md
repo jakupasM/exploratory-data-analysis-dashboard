@@ -200,3 +200,44 @@ This project analyzes global COVID-19 confirmed cases using time-series data, co
 ### Global COVID-19 Spread
 
 ![Global Spread](results/figures/covid_global_spread_2020_2023.png)
+
+
+# Project 3: Chicago Food Inspections Geospatial Analysis
+
+## Project Overview
+
+This project analyzes food inspection records from the City of Chicago to identify restaurant compliance patterns, inspection outcomes, and geographic distributions using interactive mapping techniques.
+
+The project combines public health inspection data with geospatial visualization to explore restaurant inspection trends across Chicago neighborhoods.
+
+## Key Analysis
+
+- Data Cleaning and Preparation
+
+- Restaurant Inspection Analysis
+
+- Risk Level Assessment
+
+- Geographic Distribution Analysis
+
+- Interactive Mapping with Folium
+
+- ZIP Code Density Analysis
+
+## Visualizations
+
+### Dataset Preview
+
+![Dataset](results/figures/chicago_dataset_preview.png)
+
+### Chicago Base Map
+
+![Map](results/figures/chicago_base_map.png)
+
+### Restaurant Cluster Map
+
+![Clusters](results/figures/chicago_restaurant_clusters.png)
+
+### Restaurant Density Analysis
+
+![Density](results/figures/chicago_restaurant_density_map.png)
