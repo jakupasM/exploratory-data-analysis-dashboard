@@ -96,6 +96,23 @@ Key topics include:
 
 ---
 
+### Project 3: Chicago Food Inspections Geospatial Analysis
+
+This project analyzes food inspection records from the City of Chicago using public health and geospatial datasets.
+
+The analysis focuses on restaurant inspection outcomes, compliance patterns, risk classifications, and geographic distribution across Chicago neighborhoods through exploratory data analysis, interactive mapping, and spatial visualization techniques.
+
+Key topics include:
+
+- Food inspection analysis
+- Restaurant compliance patterns
+- Risk level assessment
+- Geographic distribution analysis
+- Interactive Folium maps
+- Restaurant cluster visualization
+- ZIP code density analysis
+- Public health insights
+
 ## Author
 
 Mario Jakupas
@@ -157,7 +174,7 @@ The goal is to identify trends, behavioral patterns, and state-level differences
 
 ---
 
-# COVID-19 Global Data Analysis
+# Project 2:COVID-19 Global Data Analysis
 
 ## Project Overview
 
